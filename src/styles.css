@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.img-main-carousel
+{
+
+}
+
+.caption {
+    width:100%;
+    bottom: .100rem;
+    position: absolute;
+    background:#008CFF;
+    background: -webkit-linear-gradient(bottom, #008CFF 60%, #FFFFFF 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: -moz-linear-gradient(bottom,#008CFF 60%, #FFFFFF 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: -o-linear-gradient(bottom,#008CFF 60%, #FFFFFF 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: linear-gradient(to top,#008CFF 60%, #FFFFFF 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
